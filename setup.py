@@ -57,6 +57,7 @@ setup(
         "Jinja2 >= 2.10.1, < 3.0",
         "itsdangerous >= 0.24, < 2.0",
         "click >= 5.1, < 8.0",
+        "markupsafe >= 1.0, < 2.1.0",
     ],
     extras_require={
         "dotenv": ["python-dotenv"],
